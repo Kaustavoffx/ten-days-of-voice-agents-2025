@@ -1,0 +1,11 @@
+{
+  "items": [
+    {"name": "Milk", "price": 60, "category": "dairy"},
+    {"name": "Bread", "price": 45, "category": "bakery"},
+    {"name": "Eggs (6 pack)", "price": 50, "category": "dairy"},
+    {"name": "Paneer", "price": 120, "category": "dairy"},
+    {"name": "Maggi Noodles", "price": 15, "category": "snacks"},
+    {"name": "Coke", "price": 40, "category": "beverages"},
+    {"name": "Rice (1kg)", "price": 80, "category": "grains"}
+  ]
+}
