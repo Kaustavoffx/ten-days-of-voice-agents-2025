@@ -1,7 +1,10 @@
 [
-  {"id": "101", "name": "Wireless Headphones", "price": 2500, "category": "Electronics"},
-  {"id": "102", "name": "Running Shoes", "price": 1800, "category": "Fashion"},
-  {"id": "103", "name": "Smart Watch", "price": 3500, "category": "Electronics"},
-  {"id": "104", "name": "Cotton T-Shirt", "price": 500, "category": "Fashion"},
-  {"id": "105", "name": "Coffee Mug", "price": 300, "category": "Home"}
+  {"id": "201", "name": "Fresh Milk (1L)", "price": 60, "category": "Dairy"},
+  {"id": "202", "name": "Whole Wheat Bread", "price": 45, "category": "Bakery"},
+  {"id": "203", "name": "Maggi Noodles", "price": 15, "category": "Snacks"},
+  {"id": "204", "name": "Potato Chips", "price": 20, "category": "Snacks"},
+  {"id": "205", "name": "Coca Cola", "price": 40, "category": "Beverages"},
+  {"id": "206", "name": "Farm Eggs (6pcs)", "price": 50, "category": "Dairy"},
+  {"id": "207", "name": "Basmati Rice (1kg)", "price": 120, "category": "Grains"},
+  {"id": "208", "name": "Chocolate Bar", "price": 30, "category": "Snacks"}
 ]
